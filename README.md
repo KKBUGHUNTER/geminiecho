@@ -1,12 +1,10 @@
 # Gemini Echo
- 
-# [Figma Design](https://www.figma.com/file/k5DgUERW15ABNajbRnnJ7y/Untitled?type=design&node-id=0%3A1&mode=design&t=YZqpvxiAyZStkZJM-1)
-> # Gemini Chart App
-> 
 > ## Overview
 > 
 > Gemini Chart App is an open-source Flutter app that allows users to create personalized Gemini charts. The app uses the user's Gemini API key to securely send requests to the Gemini API, ensuring that the user's data is safe and secure.
-> 
+
+> # [Figma Design](https://www.figma.com/file/k5DgUERW15ABNajbRnnJ7y/Untitled?type=design&node-id=0%3A1&mode=design&t=YZqpvxiAyZStkZJM-1)
+
 > ## Features
 > 
 > * Create personalized Gemini charts
