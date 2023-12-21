@@ -29,7 +29,11 @@
 > ## Contributing
 > 
 > Contributions to the Gemini Chart App are welcome! Please read the [contributing guidelines](https://github.com/KKBUGHUNTER/geminiecho/blob/main/CONTRIBUTING.md) before submitting a pull request.
->
+> * Good Figma Desing also Welcome.
+> ## More Information
+> * Visit https://ai.google.dev/ for the official Google Developer page
+> * official Google Docs https://ai.google.dev/docs
+> * Quickstart: https://ai.google.dev/tutorials/android_quickstart?hl=en
 > ## License
 > 
 > The Gemini Chart App is licensed under the MIT License.
