@@ -30,6 +30,7 @@
 > 
 > Contributions to the Gemini Chart App are welcome! Please read the [contributing guidelines](https://github.com/KKBUGHUNTER/geminiecho/blob/main/CONTRIBUTING.md) before submitting a pull request.
 > * Good Figma Desing also Welcome.
+> * Quality Guidelines video also Welcome in API Entering page.
 > ## More Information
 > * Visit https://ai.google.dev/ for the official Google Developer page
 > * official Google Docs https://ai.google.dev/docs
