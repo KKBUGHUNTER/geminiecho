@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:geminiecho/pages/APIKeyinputPage.dart';
 
 void main() {
   runApp(const MyApp());
@@ -37,9 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text(widget.title),
       ),
-      body: const Center(
-        child: Text("Welcome to Personalized Gemini APP"),
-      ),
+      body: const APIKeyInputPage(),
     );
   }
 }
